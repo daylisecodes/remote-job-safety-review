@@ -1,6 +1,6 @@
 # Remote Job Safety Review
 
-A privacy-conscious, browser-based educational tool for reviewing remote job opportunities before a job seeker invests more time, sends money, or shares sensitive information.
+A privacy-conscious, browser-based educational tool for reviewing remote job opportunities before a job seeker invests more time, sends money, or shares sensitive information.\n\n## Live demo\n\n**Try the tool:** https://remote-job-safety-review.vercel.app/
 
 ## What it does
 

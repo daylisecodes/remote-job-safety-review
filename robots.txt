@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Add the final absolute Sitemap URL after the production domain is confirmed.
+Sitemap: https://remote-job-safety-review.vercel.app/sitemap.xml
